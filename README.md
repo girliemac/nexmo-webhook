@@ -29,7 +29,7 @@ $ npm install
 Run:
 
 ```bash
-$ node sms-inbound.js
+$ node inbound.js
 ```
 Try sending text messages from your mobile phone to your Nexmo virtual number.
 
