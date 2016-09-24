@@ -1,0 +1,15 @@
+{
+  "name": "nexmo-webhook",
+  "version": "1.0.0",
+  "description": "Nexmo inbound message webhook example",
+  "main": "inbound.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tomomi ❤ Imura",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "node-persist": "^2.0.2"
+  }
+}
