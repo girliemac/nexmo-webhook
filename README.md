@@ -1,6 +1,6 @@
 #Nexmo Inbound Message Webhook Example
 
-This is an example of webhook, where you can route all incoming SMS message data that sent to your Nexmo phone number.
+This is an example of webhook, written with Node.js and Express, where you can route all incoming SMS message data that sent to your Nexmo phone number.
 
 To test this webhook on [localhost](http://localhost:3000), I am using [ngrok](https://ngrok.com/), which allows you to test your webhook locally without deploying.
 
